@@ -1,7 +1,8 @@
 # DES INV 202
 ## Yunting Zhao
 ---
-[Week1 report](weekly-reports/Week1_2023_8_30.md)
+### [Week1 report](weekly-reports/Week1_2023_8_30.md)
+- During this week, I focused on learning Rhino + Grasshopper and ultimately laser-cut a phone stand. Utilized tools: Rhino, Grasshopper, and Illustrator.
 ---
 ## Quick Links ##
 
