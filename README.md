@@ -3,6 +3,7 @@
 ---
 ### [Week1 report](weekly-reports/Week1_2023_8_30.md)
 - During this week, I focused on learning Rhino + Grasshopper and ultimately laser-cut a phone stand. Utilized tools: Rhino, Grasshopper, and Illustrator.
+### [Week2 report](weekly-reports/Week2_2023_9_5.md)
 ---
 ## Quick Links ##
 
