@@ -6,7 +6,7 @@
 ### [Week2 report](weekly-reports/Week2_2023_9_7.md)
 - project1 WIP
 ### [Week3 report](weekly-reports/Week3_2023_9_14.md)
-- 3D print week! yay :D
+- ~~3D print week! yay :D~~ still laser cutting ❄️🥶
 ---
 ## Quick Links ##
 
