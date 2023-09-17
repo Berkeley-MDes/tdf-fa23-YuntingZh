@@ -6,7 +6,7 @@
 >
 > ![phoneStand](../weekly-reports/images/phoneStand.gif)
 >
-> You might have noticed that the width may not seem to be a perfect fit. This is because I used to have a phone case and left the cap specifically for it. I went through three iterations to find the best working black acrylic phone stand for my needs. Here are more details about [how I made it](https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/blob/main/weekly-reports/Week1_2023_8_30.md?plain=1#testing-the-black-acrylic-phone-stand) and its real-life use cases.
+> You might have noticed that the width may not seem to be a perfect fit. This is because I used to have a phone case and left the cap specifically for it. I went through three iterations to find the best working black acrylic phone stand for my needs. Here are more details about [how I made it](https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/blob/main/weekly-reports/Week1_2023_8_30.md#testing-the-black-acrylic-phone-stand) and its real-life use cases.
 
 
 **Modified Grasshopper+Rhino File**: Customize the baseline Grasshopper+Rhino file to incorporate your unique geometric design. This modification should showcase your ability to reconfigure the Grasshopper file, involving various operations such as boolean operations, subtractions, offsets, etc.
