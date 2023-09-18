@@ -14,13 +14,15 @@
 
 **Custom Design System**: Develop a personalized design system through the Grasshopper file modifications. This system does not necessarily need to result in a cell phone stand but should still be applicable to your life as a student.
 
-> I have two distinct files, each showcasing my ability to reconfigure Grasshopper while employing various operations such as boolean operations, subtractions, offsets, etc.
->
+> I have two distinct files(plus one basic 3D phone stand), each showcasing my ability to reconfigure Grasshopper while employing various operations such as boolean operations, subtractions, offsets, etc.
+> 0. Phone Stands:
+> <img src="../weekly-reports/images/P1_modified_phone_stand.png" alt="P1_modified_phone_stand" height="300">
 > 1. Kitchen Helper Design:
-> [Insert Image of Kitchen Helper Design]
+> <img src="../weekly-reports/images/P1_Refine_KH.png" alt="P1_Refine_KH" height="300">
 > [Insert Link to Grasshopper+Rhino File for Kitchen Helper Design]
 > 2. Apple Holder:
-> [Insert Image of Apple Holder]
+> <img src="../weekly-reports/images/P1_WIP_applehHolder.png" alt="P1_WIP_applehHolder" height="300">
+> [Insert Image of Apple Holder]P1_WIP_applehHolder
 > [Insert Link to Grasshopper+Rhino File for Apple Holder]
 > These modifications have been a valuable learning experience, and I believe they reflect my understanding of computational design principles.
 ## Presentation Feedback & reply
@@ -54,5 +56,16 @@ The part in the video merely shows some size issues and how sharp the tip was. J
 "You have tried a lot about Grasshopper, and you work so hard! Maybe you can try to use more about Grasshopper~ I believe you can do better next time~ Very vivid and clear! Cannot be better." 
 - Reply: Thank you for the advice! I will keep playing with Grasshopper or other similar computational design tools in the future.
 
+## My speculations
+**Impact on Human Experiences:**
+Computational design enhances human experiences by enabling the creation of highly customized and optimized solutions. It allows designers to consider not only aesthetics but also ergonomics, sustainability, and user preferences. From architecture to product design, computational design ensures that the end products better serve and delight users, enhancing their overall experiences.
+
+**Impact on Engineering:**
+In engineering, computational design revolutionizes the design and optimization processes. It enables engineers to simulate and analyze complex systems, improving efficiency, reliability, and safety. Computational design tools facilitate rapid prototyping and the exploration of innovative solutions, ultimately leading to the development of more advanced and efficient engineering solutions.
+
+**Intersection with AI:**
+The intersection of computational design with AI is a powerful combination. AI can assist in generating design solutions by analyzing vast datasets and predicting optimal outcomes. Machine learning algorithms can refine designs based on user feedback and real-world data. Additionally, AI-driven generative design algorithms can produce innovative and efficient designs that may not be apparent through traditional methods, pushing the boundaries of what's possible in computational design. The synergy of computational design and AI has the potential to revolutionize various industries, from architecture to manufacturing, by automating and enhancing the design process.
+
 ## Update Video 
-https://typecast.ai/
+<!--https://typecast.ai/-->
+
