@@ -68,4 +68,8 @@ The intersection of computational design with AI is a powerful combination. AI c
 
 ## Update Video 
 <!--https://typecast.ai/-->
+Click to view 🔽
+
+[![Video Project1](https://img.youtube.com/vi/MpegU7NOBx4/0.jpg)](https://youtu.be/MpegU7NOBx4)
+
 
