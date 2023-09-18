@@ -53,3 +53,6 @@ The part in the video merely shows some size issues and how sharp the tip was. J
 
 "You have tried a lot about Grasshopper, and you work so hard! Maybe you can try to use more about Grasshopper~ I believe you can do better next time~ Very vivid and clear! Cannot be better." 
 - Reply: Thank you for the advice! I will keep playing with Grasshopper or other similar computational design tools in the future.
+
+## Update Video 
+https://typecast.ai/
