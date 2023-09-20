@@ -7,6 +7,10 @@
 - project1 WIP
 ### [Week3 report](weekly-reports/Week3_2023_9_14.md)
 - ~~3D print week! yay :D~~ still laser cutting ❄️🥶
+### [Project 1](weekly-reports/Project-1-report.md)
+- 1. laser cut phone stand & 3D phone stand;
+  2. kitchen helper;
+  3. apple holder
 ---
 ## Quick Links ##
 
