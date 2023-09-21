@@ -11,6 +11,8 @@
 - 1. laser cut phone stand & 3D phone stand;
   2. kitchen helper;
   3. apple holder
+### [Week 4 report](weekly-reports/Week4_2023_9_21.md)
+- photon 2 
 ---
 ## Quick Links ##
 
@@ -18,5 +20,6 @@
 - [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 - [Photon2_Tutorial](https://github.com/loopstick/Photon2_Tutorial) - Sudhu Photon2 tutorial
+- [weekly submission](https://tinyurl.com/DESINV202-PersonalReflections)
 
 
