@@ -12,7 +12,9 @@
   2. kitchen helper;
   3. apple holder
 ### [Week 4 report](weekly-reports/Week4_2023_9_21.md)
-- photon 2 
+- photon 2
+### [Week 5 report](weekly-reports/Week5_2023_9_28.md)
+- playground
 ---
 ## Quick Links ##
 
