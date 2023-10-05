@@ -15,6 +15,8 @@
 - photon 2
 ### [Week 5 report](weekly-reports/Week5_2023_9_28.md)
 - playground
+### [Week 6 report](weekly-reports/Week6_2023_10_5.md)
+- chimeless
 ---
 ## Quick Links ##
 
