@@ -17,6 +17,8 @@
 - playground
 ### [Week 6 report](weekly-reports/Week6_2023_10_5.md)
 - chimeless
+### [Week 7 report](weekly-reports/Week7_2023_10_12.md)
+- chimeless sound design WIP
 ---
 ## Quick Links ##
 
