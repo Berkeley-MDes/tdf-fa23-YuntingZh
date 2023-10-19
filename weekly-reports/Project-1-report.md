@@ -67,7 +67,7 @@ In engineering, computational design revolutionizes the design and optimization 
 The intersection of computational design with AI is a powerful combination. AI can assist in generating design solutions by analyzing vast datasets and predicting optimal outcomes. Machine learning algorithms can refine designs based on user feedback and real-world data. Additionally, AI-driven generative design algorithms can produce innovative and efficient designs that may not be apparent through traditional methods, pushing the boundaries of what's possible in computational design. The synergy of computational design and AI has the potential to revolutionize various industries, from architecture to manufacturing, by automating and enhancing the design process.
 
 ## Update Video 
-<!--https://typecast.ai/-->
+<!--AI text to audio tool:https://typecast.ai/-->
 Click to view 🔽
 
 [![Video Project1](https://img.youtube.com/vi/eAnM-DKwLHA/0.jpg)](https://youtu.be/eAnM-DKwLHA)
