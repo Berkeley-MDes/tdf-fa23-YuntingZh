@@ -19,6 +19,10 @@
 - chimeless
 ### [Week 7 report](weekly-reports/Week7_2023_10_12.md)
 - chimeless sound design WIP
+### [Week 8 report](weekly-reports/Week7_2023_10_19.md)
+- checkout our **chime-less windchime** at the end of the report!
+- we also attended maker faire with out first prototype
+- <img src="https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/22d7dd48-e77e-47a1-963f-ac805343c645" width="300">
 ---
 ## Quick Links ##
 
