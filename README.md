@@ -25,6 +25,9 @@
 - <img src="https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/22d7dd48-e77e-47a1-963f-ac805343c645" width="300">
 ### [Week 9 report](weekly-reports/Week9_2023_10_26.md)
 - mini ME
+### [Week 10 report](weekly-reports/Week10_2023_11_2.md)
+### [Week 11 report](weekly-reports/week11_2023_11_9.md)
+### [Week 12 report](weekly-reports/Week12_2023_11_16.md)
 ---
 ## Quick Links ##
 
