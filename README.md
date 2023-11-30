@@ -29,7 +29,7 @@
 ### [Week 11 report](weekly-reports/week11_2023_11_9.md)
 ### [Week 12 report](weekly-reports/Week12_2023_11_16.md)
 
-### [Week 14 report](FInal_project_update.md.md)
+### [Week 14 report](weekly-reports/FInal_project_update.md)
  - Hi, check out my Final Project -> Chinese diet chatbox 
 ---
 ## Quick Links ##
