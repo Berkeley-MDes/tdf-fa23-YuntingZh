@@ -35,7 +35,8 @@ https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/bcdf4d6b-ef
 
 
 
-- [ ] Update this cute UI arrow to chat box
+- [x] Update this cute UI arrow to chat box
 <img width="149" alt="Screenshot 2023-12-04 at 8 01 37 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/2084ea65-395f-4c70-a322-14cd867f9119">
 
-
+Checkout our final video:
+[Chinese MediDish AI chatbox](https://youtu.be/etfPxnFVg2I)
