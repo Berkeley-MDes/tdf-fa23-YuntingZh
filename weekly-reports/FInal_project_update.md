@@ -9,7 +9,7 @@ Currently having this error:
 
 ### TODO TASK
 
-- [ ] After click "submit" btn, change the btn color or make the btn disappear so that user won't click again  <img width="700" alt="Screenshot 2023-11-27 at 6 43 07 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/7318f567-a569-46ce-875f-b61955aae5d7">
+- [x] After click "submit" btn, change the btn color or make the btn disappear so that user won't click again  <img width="700" alt="Screenshot 2023-11-27 at 6 43 07 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/7318f567-a569-46ce-875f-b61955aae5d7">
 
 Update recipe json file and interface
 <img width="1438" alt="Screenshot 2023-11-27 at 7 30 45 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/cc415abe-641d-4ecc-8861-a1bcddec01b7">
@@ -18,3 +18,18 @@ Updtae imgs
 ## 11/30/2023
 Update on UI and database
 <img width="1350" alt="Screenshot 2023-11-30 at 2 47 19 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/c9c20738-530f-4e55-aa86-1aee22511a6a">
+
+### TODO TASK of Group meeting
+Task: 
+Merge
+Animation implement when loading 
+Response -> text in regular format/ image shows as image, not link
+
+
+Darren 
+-[x] Image pre
+-[x] Animation implemented when loading 
+Yunting
+-[x] Merge
+Cynthia
+-[x] Editing response format 
