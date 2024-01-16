@@ -4,6 +4,7 @@
 > We initiated this chatbox project to expand upon our Project 3 in the TDF class. By utilizing the API from Zerowidth, we built our own AI chatbox. A significant challenge from our last project was the inability to get image responses from the AI chatbox, so we focused on overcoming that. Additionally, we aimed to strike a balance with the chatbox, making it user-friendly, engaging, yet ensuring the accuracy of the information it provides. This was crucial, as we needed to avoid inaccuracies, especially given the serious nature of our medicinal diet-based chatbox. We researched and integrated a self-curated recipe database, specifically tailored for various health needs. For example, when a user reports a symptom like a stomachache, the chatbox responds with appropriate food recommendations. A lot of effort went into data pre-cleaning, as many traditional Chinese recipes were only in Chinese. We translated these into English and sourced images for each recipe, ensuring they matched the interface style. To guarantee data accuracy, we consulted friends majoring in traditional Chinese medicine to review our database. This meticulous approach helped us set up a reliable and informative AI chatbox.
 
 ![User Experience (UX) Flow Diagram    Technology Stack Interaction Diagram](https://github.com/Berkeley-MDes/tdf-fa23-YuntingZh/assets/100269093/0d2bdea1-1eac-4ba5-af95-d195b2480f55)
+<!--Using Graphviz Online-->
 
 ## 11/27/2023
 Currently having this error:
